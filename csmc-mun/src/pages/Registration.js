@@ -8,7 +8,7 @@ const Registration = () => {
     <div
       className="relative min-h-screen bg-cover bg-center flex items-center justify-center"
       style={{
-        backgroundImage: "url('https://via.placeholder.com/1920x1080')", // Replace with your background image URL
+        backgroundImage: "url('https://i.pinimg.com/736x/5e/28/f1/5e28f185d13dc32f1c2e5fefc8afe9ad.jpg')", // Replace with your background image URL
       }}
     >
       {/* Overlay */}
